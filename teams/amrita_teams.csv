@@ -1,70 +1,122 @@
-1,Pentateuch,Ghulam Ishaq Khan Institute of Engineering Sciences and Technology,
-2,Trojans 1,NU-FAST Karachi,
-3,SignBiT,National University of Computer and Emerging Sciences,
-4,DU_NotStrongEnough,University of Dhaka,
-5,BUET Potatoes,Bangladesh University of Engineering and Technology,
-6,JU_kzvd4729,Jahangirnagar University,
-7,SUST_Carnage,Shahjalal University of Science and Technology,
-8,Team_Robust,University of Barisal,
-9,RUET_Aftermath,Rajshahi University of Engineering & Technology,
-10,KUET_Effervescent,Khulna University of Engineering & Technology,
-11,CoU_Unpredictable_3207,Comilla University,
-12,MBSTU_Durbeen,Mawlana Bhashani Science & Technology University,
-13,IUT_Reversehash,Islamic University of Technology,
-14,RU_404,University of Rajshahi,
-15,AUST_Onslaught,Ahsanullah University of Science and Technology,
-16,IST_neverGiveUp,Institute of Science and Technology,
-17,HSTU_TREENITY,Hajee Mohammad Danesh Science and Technology University,
-18,JnU-The_Last_Phase,"Jagannath University, Bangladesh",
-19,PSTU_Renaissance,Patuakhali Science and Technology University,
-20,CUET_Sapphire,Chittagong University of Engineering & Technology,
-21,AIUB_Captured,American International University – Bangladesh,
-22,Zero^Infinity,Dhaka University of Engineering & Technology – Gazipur,
-23,DIU_Depuradores,Daffodil International University,
-24,MIST_FrostByte,Military Institute of Science and Technology,
-25,BSMRSTU_DreamsOfSuccess,Bangabandhu Sheikh Mujibur Rahman Science and Technology University,
-26,OR’1’=’1′,–   –,"Amrita School of Engineering, Coimbatore"
-27,seize_means_of_software_production,"Birla Institute of Technology   and Science, Pilani Campus",
-28,Segment Fault,"Birla Institute of Technology,   Mesra",
-29,AlgoManiaX,"BITS-Pilani, Goa Campus",
-30,PalindORme,"BITS-Pilani, Hyderabad Campus",
-31,respawn,Delhi Technological University(Formerly DCE),
-32,Pay Attention,"Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar",
-33,PGP,IIIT-Delhi,
-34,AlphaZer0,IIT Bhubaneswar,
-35,Another_unknown_team,Indian Institute of   Information Technology Pune,
-36,Team Blast,"Indian Institute of Information   Technology,Una",
-37,Runtime Terrors,Indian Institute of Technology – Bombay,
-38,Khauff,Indian Institute of Technology   – Delhi,
-39,Dunno,Indian Institute of Technology – Delhi,
-40,AuditFail,Indian Institute of Technology – Delhi,
-41,Paradigm Shift,Indian Institute of Technology   – Indore,
-42,SIMLEX_BruteForce,Indian Institute of Technology – Kanpur,
-43,Kobi Kende Fellen,"Academy of Technology, Hooghly",
-44,Three of a Kind,Indian Institute of Technology   – Madras,
-45,strawberryparfait,Indian Institute of Technology – Madras,
-46,Ujjwal ke bharose,Indian Institute of Technology   – Mandi,
-47,Triumvirate73,Indian Institute of Technology   – Patna,
-48,dpbois,Indian Institute of Technology   – Roorkee,
-49,Kaala Khatta,Indian Institute of Technology – Roorkee,
-50,rng(weed),Indian Institute of Technology – Varanasi,
-51,Convex Chull,"Indian Institute of Technology   (ISM), Dhanbad",
-52,Pratyahara,Indian Institute Of Technology   Jodhpur,
-53,Tree Idiots,Institute of Engineering and   Technology – Devi Ahilya Univ.,
-54,FLogic,International Institute of Information   Technology – Hyderabad,
-55,ladaiLadai,International Institute of   Information Technology – Hyderabad,
-56,Cobra,"National Institute of   Technology Karnataka, Surathkul",
-57,2Golu1Tonu,"National Institute of   Technology, Trichy",
-58,DropTheBayesUnofficial,Nirma University,
-59,PastGlory,"PDPM Indian Institute of Information   Technology Design & Manufacturing, Jabalpur",
-60,RuntimeEXception,Punjab Engineering College Chandigarh,
-61,Seirin,Sri Sivasubramaniya Nadar   College of Engineering,
-62,Iran Team 1,Iran Institute 1,
-63,Iran Team 2,Iran Institute 2,
-64,Iran Team 3,Iran Institute 3,
-65,Afghanistan Team 1,Afghan Institute 1,
-66,Afghanistan Team 2,Afghan Institute 2,
-67,Afghanistan Team 3,Afghan Institute 3,
-68,Test Team 1,Do Not Use,
-69,Test Team 2,Do Not Use,
-70,Test Team 3,Do Not Use,
+1,DontStopMeNow,Bhagwan Parshuram Institute of Technology,Amritapuri
+2,AutoTransformers,Indian Institute of Technology - Roorkee,Amritapuri
+3,TEAM DEAD,"National Institute of Technology, Jamshedpur",Amritapuri
+4,JigglyM0M0,"Indian Institute of Information Technology Design and Manufacturing, Kurnool",Amritapuri
+5,Silicon Avengers,"Indian Institute of Information Technology, Una",Amritapuri
+6,borderline,Indian Institute of Technology - Hyderabad,Amritapuri
+7,Jai_Shree_Ram,"Indian Institute of Information Technology, Lucknow",Amritapuri
+8,Maximum Span*ing 3,Techno Main Salt Lake (formerly known as Techno India Salt Lake),Amritapuri
+9,MLE,ABES Engineering College,Amritapuri
+10,BruteForce,Pimpri Chinchwad College of Engineering,Amritapuri
+11,EulerMagic,"K. J. Somaiya College of Engineering, Vidyavihar, Mumbai",Amritapuri
+12,FIGHTforAC,Pune Institute of Computer Technology,Amritapuri
+13,Silent 3lers,"Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar",Amritapuri
+14,codingKnights,"Institute of Engineering & Management, Kolkata",Amritapuri
+15,Works_For_Me,National Institute of Technology Goa,Amritapuri
+16,Ascending Alliance,Vellore Institute of Technology,Amritapuri
+17,BinarySearch,"University Institute of Engineering & Technology, CSJMU, Kanpur",Amritapuri
+18,RECmates,"National Institute of Technology, Durgapur",Amritapuri
+19,AmritapuriChalteHai,National Institute of Technology Patna,Amritapuri
+20,towrist,University School of Information Technology,Amritapuri
+21,ISDC,Indian Institute of Information Technology Guwahati,Amritapuri
+22,seg_fault,Indian Institute of Technology Tirupati,Amritapuri
+23,"UIET, PU","University Institute of Engineering and Technology, Panjab University",Amritapuri
+24,Bruh,The LNM Institute of Information Technology,Amritapuri
+25,kesarPista,International Institute of Information Technology - Naya Raipur,Amritapuri
+26,UnionFind,CVR College of Engineering,Amritapuri
+27,KawaiiKomderz,National Institute of Technology Calicut,Amritapuri
+28,Code Monk,"Madhav Institute of Technology & Science, Gwalior",Amritapuri
+29,sponsored by telegram,Maharaja Surajmal Institute of Technology,Amritapuri
+30,Triehards,"Indian Institute of Engineering Science and Technology, Shibpur",Amritapuri
+31,Just Use Bitset,International Institute of Information Technology - Bangalore,Amritapuri
+32,LeetCode>>CodeForces,Dayananda Sagar College of Engineering,Amritapuri
+33,One,Indian Institute of Technology Goa,Amritapuri
+34,read_it_carefully,Graphic Era University,Amritapuri
+35,Sirius,Sardar Patel Institute of Technology,Amritapuri
+36,11thHour,"Kalinga Institute Of Industrial Technology,Bhubaneswar",Amritapuri
+37,Kick bit,Thapar Institute of Engineering & Technology,Amritapuri
+38,Mummy_Bula_Rhi,Madan Mohan Malaviya University of Technology-Gorakhpur,Amritapuri
+39,pmon gang,Chennai Mathematical Institute,Amritapuri
+40,maniACs,Indian Institute of Technology - Gandhinagar,Amritapuri
+41,Avengers: Age of Adhoc,"BITS-Pilani, Goa Campus",Amritapuri
+42,whyNoPyPy,Vasavi College of Engineering,Amritapuri
+43,Code_smashers,KIET GROUP OF INSTITUTIONS,Amritapuri
+44,MAA,Punjab Engineering College Chandigarh,Amritapuri
+45,The Binary Battalion,"College of Engineering, Anna University, Chennai",Amritapuri
+46,NITS_QUARKS,"National Institute of Technology, Silchar",Amritapuri
+47,!Lucky,Kamla Nehru Institute of Technology,Amritapuri
+48,Noob_123z,Lovely Professional University,Amritapuri
+49,Bytecode Velocity,Chitkara Institute of Engineering and Technology,Amritapuri
+50,Aloo Paratha,"ManipalÂ Institute of Technology, Manipal",Amritapuri
+51,Proof,"MIT Academy of Engineering, Alandi",Amritapuri
+52,BinaryBrain,"Birla Institute of Technology, Jaipur",Amritapuri
+53,GigaByteMe,"School of Engineering and Applied Science, Ahmedabad University",Amritapuri
+54,75% Attendance,JSS Academy of Technical Education Noida,Amritapuri
+55,Mavericks_FTW,Thadomal Shahani Engineering College,Amritapuri
+56,Team Unemployed,Maharaja Agrasen Institute of Technology,Amritapuri
+57,chatgptNaukriChor,University Institute of Technology - RGPV,Amritapuri
+58,Algorithm_Avengers,Veer Surendra Sai University of Technology,Amritapuri
+59,Bits&Byts,Sri Eshwar College of Engineering,Amritapuri
+60,O(1),VIT Bhopal University,Amritapuri
+61,AlgoQube,PSG College of Technology,Amritapuri
+62,AGR Trichy Coders,Indian Institute of Information Technology Tiruchirappalli,Amritapuri
+63,Out of Bounds,"Gayatri Vidya Parishad College of Engineering, Visakhapatnam",Amritapuri
+64,dpbois_,"Ajay Kumar Garg Engineering College, Ghaziabad",Amritapuri
+65,PLA_NRM,"Indian Institute of Information Technology, Surat",Amritapuri
+66,TEAMX,"CMR Institute of Technology, Bangalore",Amritapuri
+67,O_Tree_kal_aana,"YMCA University of Science and Technology, Faridabad",Amritapuri
+68,CodeBreakers,M.S. Ramaiah Institute of Technology,Amritapuri
+69,We Create Problems,"National Institute of Technology, Trichy",Amritapuri
+70,BAD,"Walchand College of Engineering, Sangli",Amritapuri
+71,Team Rocket,Vivekanand Education Society's Institute of Technology,Amritapuri
+72,always_trie,Vidyalankar Institute of Technology,Amritapuri
+73,Three of a Kind,Indian Institute of Technology - Madras,Bangalore
+74,Paradigm Shift,Indian Institute of Technology - Indore,Bangalore
+75,AuditPass,Indian Institute of Technology - Delhi,Bangalore
+76,facelessmen3.0,Indian Institute of Technology - Kanpur,Bangalore
+77,Maanzar,Indian Institute of Technology - Patna,Bangalore
+78,Ab_Ki_Baar,Indian Institute of Technology - Kharagpur,Bangalore
+79,fightFight,International Institute of Information Technology - Hyderabad,Bangalore
+80,:(){ :|:& };:,"BITS-Pilani, Hyderabad Campus",Bangalore
+81,Chilli Potato,Indian Institute of Technology - Delhi,Bangalore
+82,Chennai Sharks,Sri Sivasubramaniya Nadar College of Engineering,Bangalore
+83,ohio_trio,Delhi Technological University,Bangalore
+84,theLastDance,Indian Institute of Technology - Kanpur,Bangalore
+85,Triumvirate,Indian Institute of Technology - Patna,Bangalore
+86,Pratyahara,Indian Institute of Technology - Jodhpur,Bangalore
+87,319,"Indian Institute of Technology (Banaras Hindu University), Varanasi",Bangalore
+88,Noobsters,"Indian Institute of Technology, Palakkad",Bangalore
+89,[insert name],Indian Institute of Technology - Delhi,Bangalore
+90,DeS_FaTE,Indian Institute of Technology - Guwahati,Bangalore
+91,O(0),"National Institute of Technology Karnataka, Surathkul",Bangalore
+92,OutOfPractice,Indian Institute of Technology - Patna,Bangalore
+93,BForBruteForce,Jadavpur University,Bangalore
+94,HYPe,Indian Institute of Information Technology - Allahabad,Bangalore
+95,WAs_Only,Netaji Subhash University Of Technology,Bangalore
+96,code_kal_kar_lenge,International Institute of Information Technology - Hyderabad,Bangalore
+97,BITter Truth,IIT Bhubaneswar,Bangalore
+98,StaticProgrammers,Indian Institute of Technology - Kharagpur,Bangalore
+99,GetSetGo,IIIT-Delhi,Bangalore
+100,ProofByOEIS,Motilal Nehru National Institute of Technology - Allahabad,Bangalore
+101,Sokudo,"Shri Ramdeobaba College of Engineering and Management, Nagpur",Bangalore
+102,Wild Drum,Maulana Azad National Institute of Technology Bhopal,Bangalore
+103,XCeeded,Indian Institute of Information Technology Pune,Bangalore
+104,Kuch bhi,Indian Institute of Information Technology Sri City,Bangalore
+105,Red Black Three,National Institute of Technology Rourkela,Bangalore
+106,BootyFirstSearch,Indian Institute of Technology - Ropar,Bangalore
+107,Algorithm Avengers,"National Institute of Technology, Warangal",Bangalore
+108,jaggu's bois,"Birla Institute of Technology & Science, Pilani Campus",Bangalore
+109,Non-IITians,"Birla Institute of Technology, Mesra",Bangalore
+110,Lazy Homosapiens,"Nirma Institute of Technology, Ahmedabad",Bangalore
+111,Tree Idiots,Institute of Engineering & Technology - Devi Ahilya Univ.,Bangalore
+112,!expert,National Institute of Technology Hamirpur,Bangalore
+113,snakOverflow,VIT University Chennai Campus,Bangalore
+114,Logic Crushers,"PDPM Indian Institute of Information Technology Design & Manufacturing, Jabalpur",Bangalore
+115,SAY it Loudly,Indian Institute of Information Technology Nagpur,Bangalore
+116,Nuanced Newbies,L. D. College of Engineering,Bangalore
+117,Push_Back,MANAV RACHNA UNIVERSITY,Bangalore
+118,XoRiers,Pandit Deendayal Petroleum University,Bangalore
+119,Aalsi,"Shri Govindram Seksaria Institute of Technology and Science, Indore",Bangalore
+120,Yorozuya Forever,Indian Institute of Technology - Madras,Bangalore
+121,regretISMa,"Indian Institute of Technology (ISM), Dhanbad",Bangalore
+122,"The Alpha, the Beta and the Debugging Omega",PES University,Bangalore
